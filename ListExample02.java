@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class listExample02 {
+public class ListExample02 {
     public static void main(String[] args) {
         // 문자열을 입력 받아서,
         // 중복되지 않는 문자열만 입력한 후에,
