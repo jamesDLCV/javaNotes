@@ -9,7 +9,7 @@ public class WrapperTypes01 {
         // 이런 것이 있다 정도만 기억하고 넘어가면 된다.
         // 각 래퍼 타입은 각 자료형의 앞 글자를 대문자로 사용한다.
         // int는 예외적으로 Integer라고 사용한다.
-        // 선언과 할당하는 방법은 다른 primitiave 자료형과 동일하다.
+        // 선언과 할당하는 방법은 primitiave 자료형과 동일하다.
 
         Integer integerNmuber = 3;
         Long longNumber = 3L;

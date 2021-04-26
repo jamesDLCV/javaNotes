@@ -4,6 +4,10 @@ public class StringCompare {
     public static void main(String[] args) {
         String a = "치킨";
         Scanner scanner = new Scanner(System.in);
+
+        System.out.println("a에는 '치킨'이 입력돼 있다. ");
+        System.out.println("b에도 '치킨'을 입력해서 a와 b를 비교해 보자.");
+        System.out.println("b를 입력하라:");
         String b = scanner.nextLine();
 
         System.out.println("a = b " + (a == b));
